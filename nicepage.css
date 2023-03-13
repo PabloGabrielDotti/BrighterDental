@@ -40124,12 +40124,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: 0px;
 }
 
 .u-header .u-nav-2 {
   font-size: 1rem;
-  letter-spacing: 0px;
 }
 
 .u-header .u-nav-3 {
@@ -40139,12 +40137,15 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-4 {
   font-size: 1rem;
-  letter-spacing: 0px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -74px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
